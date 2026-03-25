@@ -1,11 +1,11 @@
 {
-    "name": "LEATES NEWS!",
-    "description": "now the cat can tell you what is the latest news in the world",
+    "name": "LATEST NEWS!",
+    "description": "Now the Grinning Cat can tell you what is the latest news in the world",
     "author_name": "Andrea Pesce",
     "author_url": "https://github.com/AndreaPesce2002",
-    "plugin_url": "https://github.com/AndreaPesce2002/the-latest-news-in-wonderland",
+    "plugin_url": "https://github.com/matteocacciola/cat-latest-news",
     "tags": "plugins, news",
-    "thumb": "https://raw.githubusercontent.com/AndreaPesce2002/the-latest-news-in-wonderland/main/logo.png",
+    "thumb": "https://raw.githubusercontent.com/matteocacciola/cat-latest-news/main/logo.png",
     "version": "1.0.5"
   }
   
